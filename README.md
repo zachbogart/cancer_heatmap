@@ -1,7 +1,5 @@
-PLEASE REVIEW THIS VIDEO: It has much better results using zoom level six (so happy it worked!). Apologies for the video being uploaded a little overtime, but the work was all done; just had to get my internet connection at home to upload the vid to YouTube. It worked! So happy!
+# Cancer Heatmap
 
-Enjoy and happy holidays! 
+This is a final project for a Columbia Deep Learning Course. It generates a predicted heatmap of where cancer is present in provided cancer slides. The cancer slides and tumor masks are from the [CAMELYON16 dataset](https://camelyon17.grand-challenge.org/Data/).
 
-Video: https://youtu.be/dKqEgF-QeJ8
-
-Zach
+![Cover Image](https://github.com/zachbogart/cancer_heatmap/blob/master/cancer_predicted_overlay.png) 
